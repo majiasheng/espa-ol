@@ -2,9 +2,7 @@
 
 ------|-----------|------|-------
 yo    | nosotros  |  I   | we
-------|-----------|------|-------
 tú    | vosotros  |  you | you
-------|-----------|------|-------
 él    | ellos     |  he  | they
 ella  | ellas     |  she | they
 usted | ustedes   |  you | you
@@ -14,11 +12,9 @@ usted | ustedes   |  you | you
 'vosotros' used only in Spain
 
 ser = to be
-
+-----|--------|------
 soy  | somos  |  am
------|--------|------
 eres | sóis   |  are
------|--------|------
 es   | son    |  is
 
 'sóis' used only in Spain
@@ -39,10 +35,9 @@ used in
 
 
 ## estar
+-------|---------|------
 estoy  | estamos |  am
--------|---------|------
 estás  | estáis  |  are
--------|---------|------
 está   | están   |  is
 
 used in
@@ -56,11 +51,9 @@ used in
 # 'ar' verbs
 'ar' = to do ..
 e.g. hablar = to speak
-
+---|------|------
 o  | amos | I
----|------|------
-as | áis  | you
----|------|------
+as | áis  | you-
 a  | an   | he/she/you(formal)/it
 
 e.g. 
