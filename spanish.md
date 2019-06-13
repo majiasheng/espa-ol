@@ -51,6 +51,7 @@ used in
 # 'ar' verbs
 'ar' = to do ..
 e.g. hablar = to speak
+|  |  |     |
 |:-:|:----:|:----:|
 |o  | amos | I    |
 |as | áis  | you  |
