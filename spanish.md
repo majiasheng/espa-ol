@@ -1,21 +1,21 @@
 # pronouns
 
-------|-----------|------|-------
-yo    | nosotros  |  I   | we
-tú    | vosotros  |  you | you
-él    | ellos     |  he  | they
-ella  | ellas     |  she | they
-usted | ustedes   |  you | you
+|------|-----------|------|-------|
+|yo    | nosotros  |  I   | we    |
+|tú    | vosotros  |  you | you   |
+|él    | ellos     |  he  | they  |
+|ella  | ellas     |  she | they  |
+|usted | ustedes   |  you | you   |
 
 'tú' is informal (doesn't imply much respect, used for friends)
 'usted' implies more respect, formal 
 'vosotros' used only in Spain
 
 ser = to be
------|--------|------
-soy  | somos  |  am
-eres | sóis   |  are
-es   | son    |  is
+-----|--------|------|
+|soy  | somos  |  am |
+|eres | sóis   |  are|
+|es   | son    |  is |
 
 'sóis' used only in Spain
 
@@ -35,10 +35,10 @@ used in
 
 
 ## estar
--------|---------|------
-estoy  | estamos |  am
-estás  | estáis  |  are
-está   | están   |  is
+--------|---------|--------
+|estoy  | estamos |  am   |
+|estás  | estáis  |  are  |
+|está   | están   |  is   |
 
 used in
 - Temporary conditions (feelings)
@@ -51,10 +51,10 @@ used in
 # 'ar' verbs
 'ar' = to do ..
 e.g. hablar = to speak
----|------|------
-o  | amos | I
-as | áis  | you-
-a  | an   | he/she/you(formal)/it
+|---|------|------|
+|o  | amos | I    |
+|as | áis  | you  |
+|a  | an   | he/she/you(formal)/it |
 
 e.g. 
 yo hablo español = i speak spanish
