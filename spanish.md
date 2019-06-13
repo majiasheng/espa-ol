@@ -1,5 +1,6 @@
 # pronouns
 
+|\-    |   \-|  \-   | \-    |
 |------|-----------|------|-------|
 |yo    | nosotros  |  I   | we    |
 |tú    | vosotros  |  you | you   |
