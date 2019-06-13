@@ -12,8 +12,8 @@
 'vosotros' used only in Spain
 
 ser = to be
-| singular|   plural|  en. singular   |
-|------|-----------|------|
+| singular|plural|en. singular|
+|---------|------|------------|
 |soy  | somos  |  am |
 |eres | sóis   |  are|
 |es   | son    |  is |
@@ -53,8 +53,8 @@ used in
 # 'ar' verbs
 'ar' = to do ..
 e.g. hablar = to speak
-|  |  |     |
-|:-:|:----:|:----:|
+| singular|   plural|  en. singular   |
+|------|-----------|------|
 |o  | amos | I    |
 |as | áis  | you  |
 |a  | an   | he/she/you(formal)/it |
