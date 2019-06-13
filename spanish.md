@@ -8,7 +8,9 @@
 
 
 'tú' is informal (doesn't imply much respect, used for friends)
+
 'usted' implies more respect, formal 
+
 'vosotros' used only in Spain
 
 ser = to be
@@ -25,15 +27,25 @@ ser = to be
 ## ser
 used in 
 - Permanent Condition
+
     e.g. The building is tall (use es)
+
 - Occupation
+
     e.g. Él es abogado / he's a lawyer
+
 - Place of origin
+
     e.g. Yo soy de los Estados Unidos / i am from the US
+
 - Identification
+
     e.g. Él es alto / he's tall
+
 - Nationality
+
     e.g. Nosotros somos puertorriqueños / we are puerto rican
+
 
 
 ## estar
@@ -53,6 +65,7 @@ used in
 # three types of verbs: 'ar' 'er' 'ir' verbs
 # 'ar' verbs
 'ar' = to do ..
+
 e.g. hablar = to speak
 
 | singular|   plural|  en. singular   |
@@ -62,7 +75,7 @@ e.g. hablar = to speak
 |a  | an   | he/she/you(formal)/it |
 
 e.g. 
-yo hablo español = i speak spanish
-él/ella habla español = he/she speaks spanish
-nosotros hablamos español = we speak spanish
-éllos hablan español = they  speak spanish
+- yo hablo español = i speak spanish
+- él/ella habla español = he/she speaks spanish
+- nosotros hablamos español = we speak spanish
+- éllos hablan español = they  speak spanish
