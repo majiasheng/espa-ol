@@ -1,19 +1,19 @@
 # pronouns
 
-|\-    |   \-|  \-   | \-    |
+| singular|   plural|  en. singular   | en. plural|
 |------|-----------|------|-------|
 |yo    | nosotros  |  I   | we    |
 |tú    | vosotros  |  you | you   |
-|él    | ellos     |  he  | they  |
-|ella  | ellas     |  she | they  |
-|usted | ustedes   |  you | you   |
+|él/ella/usted  | ellos/ellas/ustedes|  he/she/you  | they  |
+
 
 'tú' is informal (doesn't imply much respect, used for friends)
 'usted' implies more respect, formal 
 'vosotros' used only in Spain
 
 ser = to be
-|:-----:|:--------:|:------:|
+| singular|   plural|  en. singular   |
+|------|-----------|------|
 |soy  | somos  |  am |
 |eres | sóis   |  are|
 |es   | son    |  is |
@@ -36,7 +36,8 @@ used in
 
 
 ## estar
-|:-----:|:-------:|:------:|
+| singular|   plural|  en. singular   |
+|------|-----------|------|
 |estoy  | estamos |  am   |
 |estás  | estáis  |  are  |
 |está   | están   |  is   |
