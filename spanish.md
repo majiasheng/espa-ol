@@ -1,10 +1,10 @@
 # pronouns
 
-------+-----------+------+-------
+------|-----------|------|-------
 yo    | nosotros  |  I   | we
-------+-----------+------+-------
+------|-----------|------|-------
 tú    | vosotros  |  you | you
-------+------------------+-------
+------|-----------|------|-------
 él    | ellos     |  he  | they
 ella  | ellas     |  she | they
 usted | ustedes   |  you | you
@@ -16,9 +16,9 @@ usted | ustedes   |  you | you
 ser = to be
 
 soy  | somos  |  am
------+--------+------
+-----|--------|------
 eres | sóis   |  are
------+--------+------
+-----|--------|------
 es   | son    |  is
 
 'sóis' used only in Spain
@@ -40,9 +40,9 @@ used in
 
 ## estar
 estoy  | estamos |  am
--------+---------+------
+-------|---------|------
 estás  | estáis  |  are
--------+---------+------
+-------|---------|------
 está   | están   |  is
 
 used in
@@ -58,9 +58,9 @@ used in
 e.g. hablar = to speak
 
 o  | amos | I
----+------+------
+---|------|------
 as | áis  | you
----+------+------
+---|------|------
 a  | an   | he/she/you(formal)/it
 
 e.g. 
