@@ -79,3 +79,56 @@ e.g.
 - él/ella habla español = he/she speaks spanish
 - nosotros hablamos español = we speak spanish
 - éllos hablan español = they  speak spanish
+
+## sample words
+- donde = where
+- la caja = registradora = cash register
+- mesa = table
+- libro = book
+- bandera = flag
+- piso = floor
+- compuradora = computer
+- pared = wall
+
+### 'ar' verbs
+- escuchar = to listen
+- estudiar = to study
+- trabajar = to work
+- comparar = to buy
+- pagar = to pay
+
+e.g 
+- ¿D ónde trabajas? = where do you work
+- ¿Tú compras? = ¿Compras tú? = do you buy?
+- Pagamos en la caja. = we pay at the cash register
+
+---
+
+# 'the' and 'a'
+## 'the'
+**El / La** = the
+**los / las**
+
+
+when to use the above?
+
+=> see if the word is masculine (ends with an 'o') or feminine (ends with an 'a')
+
+singular    | plural
+------------|-----------
+El libro    | los libros
+La mesa     | las mesas
+la pared    | la pared_es_ 
+*(if a noun ends with a vowel add **s** for plural; if consonant, add **es**)*
+
+but there are `amigos falsos (false friends)`/exceptions
+
+e.g. 
+- la mano = the hand
+
+## 'a'
+**un / una**
+singular    | plural
+un libro    | unos libros
+una mesa    | unas mesas
+una pared   | unas paredes
