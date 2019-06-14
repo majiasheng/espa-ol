@@ -119,6 +119,7 @@ singular    | plural
 El libro    | los libros
 La mesa     | las mesas
 la pared    | la pared_es_ 
+
 *(if a noun ends with a vowel add **s** for plural; if consonant, add **es**)*
 
 but there are `amigos falsos (false friends)`/exceptions
@@ -128,7 +129,9 @@ e.g.
 
 ## 'a'
 **un / una**
+
 singular    | plural
+------------|-------------
 un libro    | unos libros
 una mesa    | unas mesas
 una pared   | unas paredes
