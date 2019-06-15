@@ -23,6 +23,8 @@ ser = to be
 
 'sóis' used only in Spain
 
+---
+
 # ser vs. estar (to be)
 ## ser
 used in 
@@ -47,7 +49,6 @@ used in
     e.g. Nosotros somos puertorriqueños / we are puerto rican
 
 
-
 ## estar
 | singular|   plural|  en. singular   |
 |------|-----------|------|
@@ -62,6 +63,8 @@ used in
 - Location
     e.g. i am at the mall
 
+---
+
 # three types of verbs: 'ar' 'er' 'ir' verbs
 # 'ar' verbs
 'ar' = to do ..
@@ -69,7 +72,7 @@ used in
 e.g. hablar = to speak
 
 | singular|   plural|  en. singular   |
-|------|-----------|------|
+|---------|-----------|------|
 |o  | amos | I    |
 |as | áis  | you  |
 |a  | an   | he/she/you(formal)/it |
@@ -135,3 +138,38 @@ singular    | plural
 un libro    | unos libros
 una mesa    | unas mesas
 una pared   | unas paredes
+
+---
+
+# 'ir' = to go
+
+singular       | plural
+---------------|-------------
+voy = i go     | vamos
+vas = you go   | váis
+va = he/she go | van
+
+# sample
+carnicería = store that sells meat
+famarcia = phamacy
+panaderia = bakery
+librería = bookstore
+biblioteca = library
+correos = post office
+galeria = shopping center
+museo = museum
+cine = cinema
+
+- yo voy al/(a el) correos = i am going to the post office
+- ella va a la librería = she is going to the bookstore
+- nosotros vamos al restaurante = we are going to the restaurant 
+- ellos van al cine = they are going to the movie theater
+- ellas van a la librería = they are going to the bookstore
+
+*\** a = to ( when `a` and `el` go together, it becomes `al`)
+
+`ir + a + infinitive` = going to do something
+voy a pagar = i am going to pay
+
+
+infinitive (a verb with a to in front of it)
