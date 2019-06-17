@@ -149,7 +149,7 @@ voy = i go     | vamos
 vas = you go   | váis
 va = he/she go | van
 
-# sample
+## sample
 carnicería = store that sells meat
 famarcia = phamacy
 panaderia = bakery
@@ -173,3 +173,46 @@ voy a pagar = i am going to pay
 
 
 infinitive (a verb with a to in front of it)
+
+---
+
+# 'er' verb
+
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|o  | emos | I    |
+|es | éis  | you  |
+|e  | en   | he/she/you(formal)/it |
+
+## e.g
+- comer = to eat
+- leer = to read 
+- creer = to think or believe 
+- correr = to run
+- aprender = to learn   
+
+
+
+# 'ir' verb
+
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|o  | imos | I    |
+|es | ís  | you  |
+|e  | en   | he/she/you(formal)/it |
+
+
+## e.g.
+- vivir = to live
+   Yo vivo en Alanta = I live in Alanta
+
+- escribir = to write
+   Yo escribo una carta. = I write a letter
+
+- abrir = to open 
+   Ella abre la puerta = she opens the door
+
+- recibir = to receive
+- asistir = to attend or assit
+
+
