@@ -216,3 +216,47 @@ infinitive (a verb with a to in front of it)
 - asistir = to attend or assit
 
 
+---
+# clothing vocabulary
+- la ropa = clothing
+- el pantalón = the pants
+- la camisa = the shirt
+- la corbata = the normal tie
+- el lazo = the bow tie
+- la camiseta = the t-shirt
+- la falda = the skirt
+- la blusa = the blouse
+- la chaqueta = the jacket
+- el abrigo = the coat
+- el traje = the suit
+- la gorra = the cap
+- los calcetines = the socks
+- los zapatos = the shoes
+- los tenis = the tennis shoes
+- un par de tenis = a pair of tennis shoes
+- el cinturón = the belt
+
+- usar = to wear/to use
+- llevar = to carry/to bring
+
+i am wearing a _green_ shirt
+= yo uso una camisa _verde_
+
+ella usa una chaqueta _negra_
+= she is wearing a _black_ jacket
+\* negro (black) is negra here because chaqueta is feminine
+
+i am wearing black shoes
+= yo uso/llevo zapatos negro_s_ (negro with an 's' because zapatos is plural)
+
+she is wearing a brown belt
+= ella usa/lleva un cinturón café
+
+he is wearing a purple t-shirt
+= él usa/lleva una camiseta violeta
+
+she is wearing a red skirt
+= ella usa/lleva una falda roja
+
+she is wearing a green blouse
+= ella usa/lleva una blusa verde
