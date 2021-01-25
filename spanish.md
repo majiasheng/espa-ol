@@ -260,3 +260,56 @@ she is wearing a red skirt
 
 she is wearing a green blouse
 = ella usa/lleva una blusa verde
+
+---
+# irregular verbs
+
+## ver = to see
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|veo  | vemos | I    |
+|ves | véis  | you  |
+|ve  | ven   | he/she/you(formal)/it |
+
+## ir = to go
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|voy  | vamos | I    |
+|vas | váis  | you  |
+|va  | van   | he/she/you(formal)/it |
+
+## esta = to be
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|estoy  | estan | I    |
+|estás | estáis  | you  |
+| está | están   | he/she/you(formal)/it |
+
+## dar = to give
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|doy  | damos | I    |
+|das | dáis  | you  |
+|da  | dan   | he/she/you(formal)/it |
+
+## hacer = to do, to make
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|hago  | hacemos | I    |
+|haces | hacéis  | you  |
+|hace  | hacé   | he/she/you(formal)/it |
+
+## salir = to leave
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|salgo  | salimos | I    |
+|sales | salís  | you  |
+|sale  | salen   | he/she/you(formal)/it |
+
+## poner = to put
+| singular|   plural|  en. singular   |
+|---------|-----------|------|
+|pongo  | ponemos | I    |
+|pones | ponéis  | you  |
+|pone  | ponen   | he/she/you(formal)/it |
+
